@@ -1,0 +1,50 @@
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.column {
+    width: 15%;
+    float: left;
+    padding-left: 8%;
+    height: 584px;
+
+}
+
+img {
+    width: 250px;
+    height: 200px;
+    display: table;
+}
+
+.worm {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: blue;
+}
+
+.warthog {
+    color: blueviolet;
+    background-color: blanchedalmond;
+}
+.panda{
+    background-color: brown;
+}
+.kraken{
+    background-color: darkslategrey;
+}
+
+.worm a {
+    border: solid black 2px;
+    color: red;
+}
+
+.panda ol {
+    color:blanchedalmond
+}
+
+.kraken p {
+    font-size: 18px;
+}
