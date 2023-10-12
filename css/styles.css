@@ -15,13 +15,15 @@ p {
 @media screen and (max-width: 1040px) {
     .row {
         flex-direction: column;
-        width: 
+        
+        align-items: center;
+        
         
     }
 }
 @media screen and (max-width: 1040px) {
-    .column {
-        width: 100%;
+    img {
+      
     }
 } 
 
