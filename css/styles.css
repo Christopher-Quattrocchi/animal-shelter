@@ -12,6 +12,26 @@ p {
     justify-content: space-evenly;
 }
 
+@media screen and (max-width: 1040px) {
+    .row {
+        flex-direction: column;
+        width: 
+        
+    }
+}
+@media screen and (max-width: 1040px) {
+    .column {
+        width: 100%;
+    }
+} 
+
+
+
+/* @media screen and (max-width: 1040px) {
+    div.row { float:left;
+    }
+} */
+
 .column {
     border-radius: 20px;
     border: solid black 2px;
@@ -73,7 +93,7 @@ img {
     margin-right: auto; */
 }
 
-@media screen and (max-width: 500px) {
+/* @media screen and (max-width: 500px) {
     div:{ float:left;
     }
-}
+} */
